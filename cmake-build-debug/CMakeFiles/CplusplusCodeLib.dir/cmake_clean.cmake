@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CplusplusCodeLib.dir/main.cpp.o"
-  "CMakeFiles/CplusplusCodeLib.dir/TemplateTest.cpp.o"
   "CplusplusCodeLib.pdb"
   "CplusplusCodeLib"
 )

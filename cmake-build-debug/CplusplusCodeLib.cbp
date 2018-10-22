@@ -80,10 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.cpp">
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.h">
 			<Option target="CplusplusCodeLib"/>
 		</Unit>
-		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.h">
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.hpp">
 			<Option target="CplusplusCodeLib"/>
 		</Unit>
 		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/main.cpp">

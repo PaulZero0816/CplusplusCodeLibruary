@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CplusplusCodeLibvmain.cpp.dir/TemplateTest.cpp.o  -o CplusplusCodeLibvmain.cpp 

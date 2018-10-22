@@ -123,33 +123,6 @@ CplusplusCodeLib/fast:
 	$(MAKE) -f CMakeFiles/CplusplusCodeLib.dir/build.make CMakeFiles/CplusplusCodeLib.dir/build
 .PHONY : CplusplusCodeLib/fast
 
-TemplateTest.o: TemplateTest.cpp.o
-
-.PHONY : TemplateTest.o
-
-# target to build an object file
-TemplateTest.cpp.o:
-	$(MAKE) -f CMakeFiles/CplusplusCodeLib.dir/build.make CMakeFiles/CplusplusCodeLib.dir/TemplateTest.cpp.o
-.PHONY : TemplateTest.cpp.o
-
-TemplateTest.i: TemplateTest.cpp.i
-
-.PHONY : TemplateTest.i
-
-# target to preprocess a source file
-TemplateTest.cpp.i:
-	$(MAKE) -f CMakeFiles/CplusplusCodeLib.dir/build.make CMakeFiles/CplusplusCodeLib.dir/TemplateTest.cpp.i
-.PHONY : TemplateTest.cpp.i
-
-TemplateTest.s: TemplateTest.cpp.s
-
-.PHONY : TemplateTest.s
-
-# target to generate assembly for a file
-TemplateTest.cpp.s:
-	$(MAKE) -f CMakeFiles/CplusplusCodeLib.dir/build.make CMakeFiles/CplusplusCodeLib.dir/TemplateTest.cpp.s
-.PHONY : TemplateTest.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -186,9 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... CplusplusCodeLib"
-	@echo "... TemplateTest.o"
-	@echo "... TemplateTest.i"
-	@echo "... TemplateTest.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
