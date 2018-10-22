@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.cpp
+TemplateTest.h
+/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.h
+
+/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.h
+
 /Users/zeqiqiu/CLionProjects/CplusplusCodeLib/main.cpp
 iostream
 -
