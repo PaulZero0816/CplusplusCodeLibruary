@@ -1,0 +1,14 @@
+//
+// Created by Zeqi Qiu on 10/22/18.
+//
+
+#ifndef CPLUSPLUSCODELIB_TEMPLATETEST_H
+#define CPLUSPLUSCODELIB_TEMPLATETEST_H
+
+
+class TemplateTest {
+
+};
+
+
+#endif //CPLUSPLUSCODELIB_TEMPLATETEST_H
