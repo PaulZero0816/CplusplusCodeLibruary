@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/ChangeSizePara.h">
+			<Option target="CplusplusCodeLib"/>
+		</Unit>
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/LambdaTest.h">
+			<Option target="CplusplusCodeLib"/>
+		</Unit>
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/PureStorageMultiThread.h">
+			<Option target="CplusplusCodeLib"/>
+		</Unit>
 		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/TemplateTest.h">
 			<Option target="CplusplusCodeLib"/>
 		</Unit>
