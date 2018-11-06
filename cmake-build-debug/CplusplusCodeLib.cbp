@@ -44,12 +44,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/cmake-build-debug/Makefile&quot;  VERBOSE=1 CplusplusCodeLib"/>
@@ -65,12 +65,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/cmake-build-debug/Makefile&quot;  VERBOSE=1 CplusplusCodeLib/fast"/>
@@ -80,10 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/BigStream.h">
+			<Option target="CplusplusCodeLib"/>
+		</Unit>
 		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/ChangeSizePara.h">
 			<Option target="CplusplusCodeLib"/>
 		</Unit>
 		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/LambdaTest.h">
+			<Option target="CplusplusCodeLib"/>
+		</Unit>
+		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/Pinterest_Karat.h">
 			<Option target="CplusplusCodeLib"/>
 		</Unit>
 		<Unit filename="/Users/zeqiqiu/CLionProjects/CplusplusCodeLib/PureStorageMultiThread.h">
